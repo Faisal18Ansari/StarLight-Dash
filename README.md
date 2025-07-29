@@ -103,9 +103,13 @@ Proper credit has been given within asset folders where applicable.
 ## 📧 Contact
 
 **Developer**: Faisal Mujahid  
+
 **Email**: faisalmujahid1804@gmail.com  
+
 **LinkedIn**: www.linkedin.com/in/faisal-mujahid-745168273
+
 **Itch.io**: https://faisal-mujahid.itch.io/
+
 **Portfolio**: https://faisal-mujahid.netlify.app/
 
 ---
