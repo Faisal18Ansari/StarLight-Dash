@@ -1,0 +1,4 @@
+repository "space station/space station@13469612206159@cloud"
+  path "/"
+    br "/main"
+    co "/main"
